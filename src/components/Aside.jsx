@@ -2,14 +2,14 @@ export default function Aside() {
   return (
     <div className="col-span-1 px-4 border-2 border-dashed border-red-500">
       <h2 className="py-3 text-center text-white text-xl font-bold">Programación 2</h2>
-      <p className="text-orange-400 text-center text-sm">
+      <p className="text-orange-300 text-center text-sm pb-2">
         Los lenguajes de programación son herramientas que permiten a los
         desarrolladores escobir instrucciones que una computadora puede entender
         y ejecutar. Estos lenguajes están diseñados para crear programas de
         software que pueden realizar una amplia variedad de tareas, desde
         calculos simples hasta operaciones complejas y manejo de datos{" "}
       </p>
-      <ol className="list-decimal list-inside text-center text-sm text-white">
+      <ol className="list-decimal list-inside text-center text-sm text-white space-y-2">
         <li>
           Lenguajes de bajo nivel: Están más cerca del lenguaje máquina y
           permiten un control más directo sobre el hardware. Ejemplos incluyen

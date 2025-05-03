@@ -1,4 +1,4 @@
-import { LenguajesTabla } from "../lenguajes"
+import { LenguajesTabla } from "../data/lenguajes"
 
 const LangTable = () => {
     return(
