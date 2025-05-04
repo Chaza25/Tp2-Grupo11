@@ -12,7 +12,7 @@ export const NOSOTROS_ALUMNOS = [
   {
     name: "Lapetina Axel Samuel",
     image: "/samuel.png",
-    link: "https://www.github.com/chLuis",
+    link: "https://www.github.com/axelsameul",
   },
   {
     name: "Lezana Juan Sebastián",
